@@ -1,0 +1,8 @@
++-----------------+---------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Correct Concept | Best WordNet Synset Found |                                                           Definition                                                           |
++-----------------+---------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+|     courage     |   physical_ability.n.01   |                           the ability to perform some physical act; contrasting with mental ability                            |
+|      paper      |  composite_material.n.01  |      strong lightweight material developed in the laboratory; fibers of more than one kind are bonded together chemically      |
+|   apprehension  |     apprehension.n.01     |                                              fearful expectation or anticipation                                               |
+|    sharpener    |         drill.n.01        | a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows) |
++-----------------+---------------------------+--------------------------------------------------------------------------------------------------------------------------------+

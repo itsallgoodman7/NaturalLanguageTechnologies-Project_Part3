@@ -1,0 +1,12 @@
+courage
+[Synset('physical_ability.n.01'), Synset('stage_fright.n.01'), Synset('take_the_bull_by_the_horns.v.01'), Synset('form.n.14'), Synset('magical_ability.n.01'), Synset('midas_touch.n.01'), Synset('penetration.n.04'), Synset('capacity.n.08'), Synset('faculty.n.01'), Synset('originality.n.01')]
+
+paper
+[Synset('composite_material.n.01'), Synset('paper.n.01'), Synset('literature.n.03'), Synset('aggregate.n.02'), Synset('bimetal.n.01'), Synset('foam.n.02'), Synset('packing_material.n.01'), Synset('undercut.n.01'), Synset('cord.n.04'), Synset('horsehair.n.02')]
+
+apprehension
+[Synset('apprehension.n.01'), Synset('panic.n.01'), Synset('panic.n.02'), Synset('edginess.n.01'), Synset('insecurity.n.02'), Synset('worry.n.02'), Synset('condition.n.01'), Synset('feeling.n.01'), Synset('creeps.n.02'), Synset('intimidation.n.03')]
+
+sharpener
+[Synset('drill.n.01'), Synset('jaws_of_life.n.01'), Synset('plow.n.01'), Synset('upset.n.04'), Synset('lead_pencil.n.01'), Synset('slate_pencil.n.01'), Synset('abrader.n.01'), Synset('bender.n.01'), Synset('clincher.n.03'), Synset('cutting_implement.n.01')]
+
